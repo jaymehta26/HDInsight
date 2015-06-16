@@ -1,0 +1,9 @@
+Go to Microsoft azure's website: 
+	
+	http://azure.microsoft.com/en-us/
+	If you are already has access to account click on 'My Account'
+	
+	If you don't have accout Click on 'Free Trial'. 
+    	// you will get 30 days free trial.
+
+	
